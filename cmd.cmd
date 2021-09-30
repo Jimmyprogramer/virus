@@ -1,0 +1,9 @@
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
+start cmd.cmd
